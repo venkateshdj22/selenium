@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Reset Password" verbose="1" >
+    <test name="Reset Password" >
+        <classes>
+            <class name="com.selenium.framework.testCases.ForgotPassword"/>
+            <class name="com.selenium.framework.testCases.CancelResetPassword"/>
+        </classes>
+    </test>
+</suite>
